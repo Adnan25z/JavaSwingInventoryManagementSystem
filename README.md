@@ -47,8 +47,8 @@ Set up the MySQL database by executing the provided SQL script (database/Invento
 Update the database connection details in DatabaseConnection.java with your MySQL server information.
 Compile and run Main.java to start the application.
 
-Contributing
+## Contributing
 Contributions are welcome and greatly appreciated. If you have a suggestion to improve this project, please fork the repo, create a feature branch, commit your changes, and open a pull request.
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
