@@ -42,7 +42,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/adnan25z/inventory-management-system.git
-Set up the MySQL database by executing the provided SQL script (database/InventoryDB.sql) to create the necessary tables.
+Set up the MySQL database by executing the provided SQL script (SQL/Inventory.sql) to create the necessary tables.
 
 Update the database connection details in DatabaseConnection.java with your MySQL server information.
 Compile and run Main.java to start the application.
