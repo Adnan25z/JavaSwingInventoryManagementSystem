@@ -1,6 +1,11 @@
 # Inventory Management System (Java Swing & MySQL)
 The Inventory Management System is an advanced desktop application designed to streamline inventory management for small to medium-sized businesses. Utilizing Java Swing for the user interface and MySQL for backend data management, this system offers robust functionality for managing product details, including adding, updating, deleting, and viewing products. Built on solid software design principles and patterns, it ensures an efficient, scalable, and maintainable solution for inventory management.
 
+[![Watch the video](https://raw.githubusercontent.com/Adnan25z/JavaSwingInventoryManagementSystem/main/video/invThumbnail.jpg)](https://raw.githubusercontent.com/Adnan25z/JavaSwingInventoryManagementSystem/main/video/video.mp4)
+
+Click the image to watch the video.
+
+
 # Features
 CRUD Operations: Facilitates create, read, update, and delete operations for inventory items.
 Intuitive User Interface: Features a user-friendly graphical interface, making inventory management accessible and straightforward.
